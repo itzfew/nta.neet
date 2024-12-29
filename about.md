@@ -28,6 +28,8 @@ EduHub is your partner in success, combining the power of technology with reliab
 📥 [EduHub - Study Material for NEET JEE](https://edu-hubs.pages.dev/Apk/Com_studymaterial_app_v1.apk)  
 
 ## App Icon  
-![EduHub App Icon](https://edu-hubs.pages.dev/img/logo.png)  
+<div align="center">
+  <img src="https://edu-hubs.pages.dev/img/logo.png" alt="EduHub App Icon" width="100" height="100" style="border-radius: 50%;">
+</div>  
 
 Let EduHub be your guide to success!
