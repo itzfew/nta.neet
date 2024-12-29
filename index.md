@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome to EduHub  
 
-Your one-stop platform for high-quality study materials and engaging educational resources. At EduHub, we aim to make learning more accessible, interactive, and enjoyable for everyone.  
+Your one-stop platform for high-quality study materials and engaging educational resources. At EduHub, we aim to make learning more accessible interactive, and enjoyable for everyone.  
 
 ---
 
