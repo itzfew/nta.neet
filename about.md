@@ -1,35 +1,17 @@
-# About EduHub  
-
-Welcome to **EduHub**, your ultimate educational resource platform designed to make learning accessible, engaging, and effective. Whether you're preparing for competitive exams like NEET or JEE, or simply seeking high-quality study materials, EduHub has everything you need to excel in your academic journey.  
-
+---
+layout: page
+title: About
+permalink: /about/
 ---
 
-## What We Offer  
-- **Comprehensive Study Materials**: Access NCERT books, previous years' question papers, and other trusted resources.  
-- **Interactive Learning Tools**: Enhance your learning experience with engaging and user-friendly tools.  
-- **Exam Preparation Guides**: Specialized resources to help you ace competitive exams.  
-- **Daily Updates**: Stay updated with the latest content and features tailored to your educational needs.  
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
----
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-## Why EduHub?  
-- **Ease of Access**: A simple, intuitive interface ensures you find what you need quickly.  
-- **Quality Content**: Carefully curated materials from reputable sources.  
-- **Community Support**: Join a growing community of learners to share insights and tips.  
-- **Innovative Features**: Regular updates and interactive elements make learning fun and effective.  
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
----
-
-EduHub is your partner in success, combining the power of technology with reliable study resources to help you achieve your goals. Dive in and discover the joy of learning with EduHub today!  
-
----
-
-## Download Now  
-📥 [EduHub - Study Material for NEET JEE](https://edu-hubs.pages.dev/Apk/Com_studymaterial_app_v1.apk)  
-
-## App Icon  
-<div align="center">
-  <img src="https://edu-hubs.pages.dev/img/logo.png" alt="EduHub App Icon" width="100" height="100" style="border-radius: 50%;">
-</div>  
-
-Let EduHub be your guide to success!
+[jekyll-organization]: https://github.com/jekyll
